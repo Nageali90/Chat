@@ -12,7 +12,7 @@
 </head>
 <body>
   <h1>Ethereum Hot Wallet</h1>
-  <button onclick="createWallet()">إنشاء محفظة جديدة</button>
+  <button onclick="createWallet()">chat</button>
   <div id="wallet" style="margin-top: 1rem;"></div>  <h2>إرسال ETH</h2>
   <input type="text" id="toAddress" placeholder="عنوان المستقبل">
   <input type="text" id="amount" placeholder="المبلغ بـ ETH">
