@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" [content="width=device-width, initial-scale=1.0" />](https://johnDoe.github.io/chatcoin-wallet/)
   <title>Ethereum Hot Wallet</title>
   <script src="https://cdn.jsdelivr.net/npm/ethers@6.6.2/dist/ethers.umd.min.js"></script>
   <style>
